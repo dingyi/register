@@ -5,8 +5,9 @@
         "username": "BlakeH2208",
         "email": "contact@blakehurley.com"
     },
-
     "record": {
-        "A": ["89.41.169.49"]
+        "A": [
+            "89.41.169.49"
+        ]
     }
 }

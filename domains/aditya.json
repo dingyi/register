@@ -1,12 +1,13 @@
 {
-    "description": "My Personal Landing Page!",
-    "repo": "https://github.com/adityaasyadav/aditya",
+    "description": "my personal homepage",
+    "repo": "https://github.com/dedomil",
     "owner": {
-        "username": "adityaasyadav",
+        "username": "dedomil",
         "email": "ishqaddy@gmail.com",
-        "twitter": "adityaasyadav"
+        "twitter": "aadixl",
+        "discord": "dedomil"
     },
     "record": {
-        "CNAME": "adityaasyadav.github.io"
+        "CNAME": "dedomil.github.io"
     }
 }
