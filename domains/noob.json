@@ -1,11 +1,12 @@
 {
+    "description": "My personal portfolio site, made in nextjs",
+    "repo": "https://github.com/IMXNOOBX/universe",
     "owner": {
-       "username": "KeIrNeGn",
-       "email": "terminatorx5e@gmail.com",
-       "discord": "499592235772280842"
+      "username": "IMXNOOBX",
+      "email": "me@noob.bio"
     },
-
     "record": {
-        "CNAME": "keirnegn.dev"
-    }
-}
+      "CNAME": "noob.bio"
+    },
+    "proxied": false
+  }
