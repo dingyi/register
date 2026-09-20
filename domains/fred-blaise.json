@@ -4,7 +4,9 @@
     "email": "westindies86@gmail.com"
   },
   "records": {
-    "A": ["76.76.21.21"],
+    "A": [
+      "76.76.21.21"
+    ],
     "MX": [
       "mx.zoho.com",
       "mx2.zoho.com",
